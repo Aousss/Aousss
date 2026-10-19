@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Firdaus 👋
 
-🎓 **Current Role / Major** | Institution / Company  
-💼 **Specialization / Focus Areas**  
-📍 City, Country  
-📫 [your.email@example.com](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/yourprofile)  
+🎓 **Freelance Full Stack Developer**  
+💼 **Full Stack Developer | Designer**  
+📍 Kuala Lumpur, Malaysia  
+📫 [mfirdausyamat@gmail.com](mailto:mfirdausyamat@gmail.com) • [LinkedIn](https://linkedin.com/in/Aousss)  
 🌐 [My Portfolio Website](https://yourwebsite.com)
 
 ---
