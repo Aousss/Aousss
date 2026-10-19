@@ -58,11 +58,3 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" alt="Maya" width="40" height="40"/>
 </p>
-
----
-
-### ⭐ GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
