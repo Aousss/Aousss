@@ -3,8 +3,8 @@
 🎓 **Freelance Full Stack Developer**  
 💼 **Full Stack Developer | Designer**  
 📍 Kuala Lumpur, Malaysia  
-📫 [mfirdausyamat@gmail.com](mailto:mfirdausyamat@gmail.com) • [LinkedIn](https://linkedin.com/in/Aousss)  
-🌐 [My Portfolio Website](https://yourwebsite.com)
+📫 [mfirdausyamat@gmail.com](mailto:mfirdausyamat@gmail.com) • [LinkedIn](https://www.linkedin.com/in/firdausyamat/)  
+🌐 [My Portfolio Website]()
 
 ---
 
